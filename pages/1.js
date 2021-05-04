@@ -5,7 +5,7 @@ export default function SlideOne() {
     <Layout maxW>
       <h1 style={{ marginBottom: 0 }}>3D file creation</h1>
       <h3 style={{ marginBottom: 40 }}>
-        spoiler/tl;dr: dev work - not much, model creation/scanning: hmmnnns
+        spoiler: EASY for devs, model creation/scanning bit complex
       </h3>
       <ul>
         <li style={{ marginBottom: 20 }}>
